@@ -23,7 +23,7 @@ setup(
         'pandas',
      #   'json',
         'statsmodels',
-        'tensorflow<1.14.0,>=1.10.1',
+        'tensorflow',
         'neupy',
  #       'sklearn',
         'scikit-learn>=0.16.1',
