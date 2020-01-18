@@ -35,18 +35,18 @@ Example input:
 2014-08-14,30
 ```
 ### Note:
-	A two columns csv file is required (comma separated).
-	Column 1: Dates in the YYYY-MM-DD format (Example: 2014-01-01).
-	Column 2: Number of cases.
-	Title line is not required.
-	To ensure the accuracy of prediction, at least 200 days are required; the longer the better.
+  * A two columns csv file is required (comma separated).
+  * Column 1: Dates in the YYYY-MM-DD format (Example: 2014-01-01).
+  * Column 2: Number of cases.
+  * Title line is not required.
+  * To ensure the accuracy of prediction, at least 200 days are required; the longer the better.
 # Output format
 In the output folder there are five result files as follows:
-1, Predicted_case_number.txt: The predicted case numbers in the next four future days
-2, Lineplot_case_number_recent_20_day.svg: Line plot of the case number in recent 20 days, including the four predicted days.(Actual data, blue; predicted data, red.)
-3, Lineplot_case_nubmber.svg: Line plot of the all case numbers in the input data as well as the predicted ones.(Actual data, blue; predicted data, red.)
-4, Detected_recent_outbreak_signal.txt: The detected outbreak signals in the last day as well as the next four future days.(Column 1, detection method; Column 2, the detected outbreak date.)
-5, Detected_all_outbreak_signal.txt: All detected outbreak signals in the input data as well as the predicted data.The format is the same as Detected_recent_outbreak_signal.txt.
+  * Predicted_case_number.txt: The predicted case numbers in the next four future days
+  * Lineplot_case_number_recent_20_day.svg: Line plot of the case number in recent 20 days, including the four predicted days.(Actual data, blue; predicted data, red.)
+  * Lineplot_case_nubmber.svg: Line plot of the all case numbers in the input data as well as the predicted ones.(Actual data, blue; predicted data, red.)
+  * Detected_recent_outbreak_signal.txt: The detected outbreak signals in the last day as well as the next four future days.(Column 1, detection method; Column 2, the detected outbreak date.)
+  * Detected_all_outbreak_signal.txt: All detected outbreak signals in the input data as well as the predicted data.The format is the same as Detected_recent_outbreak_signal.txt.
 
 
 
