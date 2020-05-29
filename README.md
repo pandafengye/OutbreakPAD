@@ -6,7 +6,7 @@
   * Detection: seven algorithms, including Mann-Kendall, Pettitt, Buishand U Test and Standard Normal Homogeneity Test (SNHT), CUSUM, EWMA and P value-CUSUM.
     In theory, OutbreakPAD can also applies to other outbreaks based on time series data.
 # Download and install
-Dependency requirements:
+Dependency requirements:   
    . numpy>=1.7.0    
    . scipy     
    . pandas    
