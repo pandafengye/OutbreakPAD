@@ -12,6 +12,10 @@ git clone https://github.com/pandafengye/OutbreakPAD.1.1.git
 cd OutbreakPAD.1.1  
 python setup.py install 
 ```
+or
+```
+pip install OutbreakPAD
+```
 # Usage
 ```python
 from OutbreakPAD import *
