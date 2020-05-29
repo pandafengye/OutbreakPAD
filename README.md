@@ -7,8 +7,8 @@
     In theory, OutbreakPAD can also applies to other outbreaks based on time series data.
 # Download and install
 Dependency requirements:
-   . numpy>=1.7.0 
-   . scipy  
+   . numpy>=1.7.0    
+   . scipy     
    . pandas    
    . statsmodels   
    . tensorflow    
