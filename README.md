@@ -8,13 +8,13 @@
 # Download and install
 Dependency requirements:
    . numpy>=1.7.0 
-   . scipy 
-   . pandas 
-   . statsmodels 
-   . tensorflow 
-   . neupy 
-   . scikit-learn>=0.16.1 
-   . matplotlib>=1.3.0 
+   . scipy  
+   . pandas    
+   . statsmodels   
+   . tensorflow    
+   . neupy   
+   . scikit-learn>=0.16.1  
+   . matplotlib>=1.3.0   
 ## in linux
 ```bash
 git clone https://github.com/pandafengye/OutbreakPAD.1.1.git    
