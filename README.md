@@ -17,8 +17,8 @@ Dependency requirements:
    . matplotlib>=1.3.0   
 ## in linux
 ```bash
-git clone https://github.com/pandafengye/OutbreakPAD.1.1.git    
-cd OutbreakPAD.1.1  
+git clone https://github.com/pandafengye/OutbreakPAD.git    
+cd OutbreakPAD
 python setup.py install 
 ```
 or
